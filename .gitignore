@@ -1,0 +1,10 @@
+# Virtuální prostředí
+venv/
+
+# PyCharm specifické
+.idea/
+
+# Python cache a kompilované soubory
+__pycache__/
+*.pyc
+*.pyo
